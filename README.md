@@ -1,2 +1,2 @@
-# Breast_cancer_detection
-Breast_cancer_detection using inbuilt dataset in sklearn by LogisticRegression
+# Cancer_detection
+Cancer_detection using inbuilt dataset in sklearn by LogisticRegression
